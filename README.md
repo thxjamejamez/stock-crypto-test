@@ -36,7 +36,7 @@ Start the server
 App URL
 
 ```bash
-  https://localhost:3000/api-docs
+  http://localhost:3000/api-docs
 ```
 You can test get stock or crypto by api on swagger page.
 ## Authors
